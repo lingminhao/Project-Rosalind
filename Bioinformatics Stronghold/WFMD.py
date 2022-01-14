@@ -13,8 +13,7 @@ k = int(file[3])
 # Probability of recessive alleles 
 p = (2*N - m) / (2 * N)
 
-
-# Get the prob distribution of dominant alleles at 2nd generation
+# Get the prob distribution of recessive alleles at 2nd generation
 gen2 = []
 for i in range(2 * N + 1): 
     prob = p ** i * (1-p) ** (2 * N - i) * comb(2*N, i)
