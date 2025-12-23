@@ -1,7 +1,7 @@
 # Project-Rosalind
 [Problem Solved](http://rosalind.info/users/ling_min/): 95/285
 
-This is a project I started from September 2021 where I had to solve as many problems as I can from rosalind.info. This code repository contains a complete solutions to all problems that I have solved at rosalind.info. The name code for each python file corresponds to the problem number code at the website.
+This is a programming exercise I started from September 2021 where I had to solve as many problems as I can from rosalind.info. This code repository contains a complete solutions to all problems that I have solved at rosalind.info. The name code for each python file corresponds to the problem number code at the website.
 
 ## Disclaimer
 This repository is aimed to showcase my programming/portfolio to my potential interviewers. But it could be a great reference for Rosalind learners. Yet, use it wisely !
